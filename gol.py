@@ -7,7 +7,7 @@ def get_empty_grid(size):
             grid.append(row)
     return grid
 print(get_empty_grid(5))
-
+# hello
 def get_empty_grid2(rows, columns):
     grid = list()
     row = list()
