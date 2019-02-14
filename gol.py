@@ -17,7 +17,7 @@ def get_empty_grid2(rows, columns):
         grid.append(row)
     return grid
 print(get_empty_grid2(4,5))
-
+# Helllo
 def fill_grid_random(grid, n_alive):
     grid = my_flatten
 
