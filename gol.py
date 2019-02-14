@@ -3,8 +3,8 @@ def get_empty_grid(size):
     row = list()
     for j in  range(0, size):
         row.append("-")
-    for i in range(0, size):
-        grid.append(row)
+        for i in range(0, size):
+            grid.append(row)
     return grid
 print(get_empty_grid(5))
 
